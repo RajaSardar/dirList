@@ -1,6 +1,6 @@
 {
   "name": "@rajasardar/dirlist",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This package will take directory address string as input and output the list of files and folders in console",
   "main": "app.js",
   "scripts": {
