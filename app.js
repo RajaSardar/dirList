@@ -48,5 +48,5 @@ const dirListByString = (dir_String_multiline_or_single,add_Extention_Without_Do
     }
 }
 
-module.exports = dirListByString;
-module.exports = dirList;
+exports.dirListByString = dirListByString;
+exports.dirList = dirList;
